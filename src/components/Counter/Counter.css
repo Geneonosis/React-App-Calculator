@@ -12,6 +12,7 @@
   margin: 0 0.5rem;
   padding: 0.5rem 1rem;
   transition: all 0.3s ease-in-out;
+  overflow: clip;
 }
 
 .Cool-button:hover {
@@ -20,7 +21,8 @@
 }
 
 .Counter-text {
-    color: var(--lightest-blue);
-    font-size: 1.5rem;
-    margin: 0 0.5rem;
+  color: var(--lightest-blue);
+  font-size: 1.5rem;
+  margin: 0 0.5rem;
+  overflow: hidden;
 }
