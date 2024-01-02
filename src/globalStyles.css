@@ -1,0 +1,9 @@
+/* This file is to define the global colors for the app */
+
+:root {
+    --primary-color: #3C1642;
+  --secondary-color: #086375;
+  --light-blue: #1DD3B0;
+  --lime-green: #AFFC41;
+  --lightest-blue: #B2FFD6;
+}
